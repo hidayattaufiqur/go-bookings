@@ -1,4 +1,4 @@
-# learn how to make a website with go 
+# learn how to make a website using go 
 
 - Built in Go version 1.16
 - Uses [the chi router](github.com/go-chi/chi)
